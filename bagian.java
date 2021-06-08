@@ -20,7 +20,7 @@ public class bagian {
  System.out.println("==== Penjualan Roti ====");
   System.out.println("Roti : "+ user.getRoti ());
   System.out.println("Jenis : "+user.getJenis());
-  System.out.println("Hatga : "+user.getHarga());
+  System.out.println("Harga : "+user.getHarga());
     }
 }
 
