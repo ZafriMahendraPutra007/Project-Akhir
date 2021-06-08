@@ -32,18 +32,18 @@ return harga;
 }
 
 
-public void setRoti (String RotiBaru)
+public void setRoti (String RotiNew)
 {
-Roti = RotiBaru;
+this.Roti = RotiNew;
 }
-public void setJenis (String jenisBaru)
+public void setJenis (String jenisNew)
 {
-this.jenis = jenisBaru;
+this.jenis = jenisNew;
 }
  
-public void setHarga (int hargaBaru)
+public void setHarga (int hargaNew)
 {
-harga = hargaBaru;
+this.harga = hargaNew;
  }}
 
 
